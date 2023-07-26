@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mi primer página web</title>
+    <style>
+        img {
+            display: block;
+            margin: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <li>
+
+    <a href="https:\\google.com" target="_blank">Google</a>
+    </li>
+</body>
+
+</html>
