@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mi lista de tareas</title>
+    <style>
+        img {
+            display: block;
+            margin: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+    <!-- fila table row -->
+    <tr>
+        <!-- Columnas encabezado  table head-->
+        <th>Tarea</th>
+        <th>Fecha limite</th>
+        <th>Completada</th>
+    </tr>
+    <!-- fila -->
+    <tr>
+        <!-- dato de table : table data -->
+        <td>Sonoo</td>
+        <td>Jaiswal</td>
+        <td>60</td>
+    </tr>
+</table>
+</body>
+
+</html>

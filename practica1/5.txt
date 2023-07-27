@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi lista de tareas</title>
+    <style>
+        img {
+            display: block;
+            margin: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+
+
+<body>
+    <h1>Ejercicio 5</h1>
+  
+</body>
+
+</html>
