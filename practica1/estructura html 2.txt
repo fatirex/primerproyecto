@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mi primer página web</title>
+    <style>
+        img {
+            display: block;
+            margin: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+
+<body>
+<header style="background-color: #E8F2A1;"> 
+<h1 style="margin:0px ;">Titulo del encabezado</h1> 
+<h4 style="margin: 0px;">Texto del encabezado</h4></header>
+<nav style="background-color: #F7D1D5;">
+    <ul>
+    <li>Elemento 1</li>
+    <li>Elemento2</li>
+    </ul>
+</nav>
+<article style="background-color: #FFF5CE;">
+    <h2>Titulo del articulo 1</h2>
+    <p>Texto del articulo 1</p>
+    <h2>Titulo del articulo 2</h2>
+    <p>Texto del articulo 2</p>
+    </article>
+    <aside style="background-color: #DEDCE6;">
+        <h3>Titulo del Aside</h3>
+        <p>Texto del aside</p>
+    </aside>
+    
+    <p style="background-color: #B4C7DC;">Texto del pie de pagina</p>
+</body>
+
+</html>
