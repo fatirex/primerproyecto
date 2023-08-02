@@ -1,0 +1,25 @@
+<html>
+<head>
+</head>
+<body>
+<header>
+<h1>Titulo 1</h1>
+<p>Parrafo 1: In tempor culpa cillum eu adipisicing velit elit qui eu veniam occaecat consequat ullamco.</p>
+<nav>
+<a><ul> 
+    <a href="https:\\google.com" target="_blank">Home</a>
+    <a href="https:\\google.com" target="_blank">Pagina 1</a>
+    <a href="https:\\google.com" target="_blank">Pagina 2</a>
+    <a href="https:\\google.com" target="_blank">Pagina 3</a>
+    <a href="https:\\google.com" target="_blank">Pagina 4</a> </a>
+</nav>
+</header>
+<article>
+</article>
+<aside>
+</aside>
+<footer>
+</footer>
+</body>
+
+</html>
