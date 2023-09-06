@@ -1,0 +1,107 @@
+
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+    a:hover{
+    color: rgb(221, 244, 11);
+}
+.back{
+        
+        height: 400px;
+        width: 100%;
+        background-image: url(https://cmonmurcia.com/wp-content/uploads/2017/06/Lil-Supa-Serio-Cmon-Murcia-1.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    
+}
+.back h1{
+        margin-left: -30px;
+        margin-top: 50px;
+        font-size: 70px;
+        color: aliceblue;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+
+}
+    
+.back a{
+        margin-left:90px;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section, ul, h1{
+        text-align: center;
+}
+ .comtenedor-icono svg{
+    width: 100px;
+ }
+        
+div{
+    display: flex;
+    
+}
+img{
+    width: 35px;
+    display: flex;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    }   
+.iconos{
+    margin-left: 1000px;
+}  
+
+button{
+    border-color: white;
+    color:red;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 24px;
+}
+.play{
+    color: aliceblue;
+    margin-left: 600px;
+    font-size: 75px;
+    margin-top: 40px;
+}
+.redes{
+    margin-left: 1000px;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+i{
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+table{
+    margin-left: 388px;
+    height: 200px;
+    
+}
+.icono-rojo:hover{
+color: red;
+}
+.icono-verde:hover{
+color:green;
+}
+.icono-azul:hover{
+color:blue;
+}
+.play:hover{
+    color:forestgreen;
+}
+.t2{
+    text-align: center;
+}
+.t3,.t4{
+    text-align: right;
+}
+.buy:hover{
+    color: rgb(9, 9, 9);
+}
